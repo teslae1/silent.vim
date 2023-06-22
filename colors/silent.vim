@@ -236,10 +236,11 @@ hi javascriptFuncName guifg=#c0c0c0 ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE
 hi yamlFlowString guifg=#c0c0c0 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlFlowStringDelimiter guifg=#c0c0c0 ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlKeyValueDelimiter guifg=#c0c0c0 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi! Normal guibg=#000000 
 
-let g:terminal_color_foreground = "#212121"
-let g:terminal_color_background = "#c0c0c0"
+hi! LineNr guifg=#90ee90
+
+let g:terminal_color_foreground = "#ffffff"
+let g:terminal_color_background = "#000000"
 let g:terminal_color_0 = "#212121"
 let g:terminal_color_1 = "#c0c0c0"
 let g:terminal_color_2 = "#c0c0c0"
