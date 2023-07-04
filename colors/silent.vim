@@ -242,7 +242,8 @@ hi! String guifg=#666666 ctermfg=242
 
 
 let g:terminal_color_foreground = "#ffffff"
-let g:terminal_color_background = "#042428"
+"let g:terminal_color_background = "#042428"
+let g:terminal_color_background = "#000000"
 let g:terminal_color_0 = "#042428"
 let g:terminal_color_1 = "#ffffff"
 let g:terminal_color_2 = "#ffffff"
