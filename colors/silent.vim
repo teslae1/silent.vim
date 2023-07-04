@@ -45,13 +45,13 @@ hi PMenuSel guifg=#ffffff ctermfg=235 guibg=#666666 ctermbg=185 gui=NONE cterm=N
 hi PmenuSbar guifg=#ffffff ctermfg=180 guibg=#ffffff ctermbg=180 gui=NONE cterm=NONE
 hi PmenuThumb guifg=#ffffff ctermfg=215 guibg=#ffffff ctermbg=215 gui=NONE cterm=NONE
 hi Question guifg=#ffffff ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Search guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=underline,Bold cterm=underline,Bold
+hi Search guifg=#ffffff ctermfg=15 guibg=blue ctermbg=NONE 
 hi SpecialKey guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellBad guifg=#ffffff ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellLocal guifg=#ffffff ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellCap guifg=#ffffff ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#ffffff ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi StatusLine guifg=#444444 ctermfg=234 guibg=NONE ctermbg=242 gui=Bold cterm=Bold
+hi StatusLine guifg=#90ee90 ctermfg=234 guibg=NONE ctermbg=242 gui=Bold cterm=Bold
 hi StatusLineNC guifg=#444444 ctermfg=246 guibg=NONE ctermbg=238 gui=NONE cterm=NONE
 hi TabLine guifg=#999999 ctermfg=246 guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
 hi TabLineFill guifg=NONE ctermfg=NONE guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
